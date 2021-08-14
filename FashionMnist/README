@@ -12,4 +12,4 @@
 
 Используя сверточные слои и архитектуру получите на fashion mnist качество не ниже 89,5%
 
-Файл FashionMnist_CNN.ipynb
+Файл FashionMNIST_CNN.ipynb
