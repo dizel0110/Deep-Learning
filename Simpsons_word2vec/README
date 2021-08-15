@@ -1,0 +1,9 @@
+Тема: Работа с текстом.
+
+Задание:
+
+1. Скачать датасет с фразами симпосонов - https://github.com/sujanjoejacob/Text-mining-with-Simpsons-Data
+2. Обучить word2vec на фразах персонажей
+3. Визуаилизировать embeddings по самым частотным словам (top 1000)
+4. Найти самые близкие слова для: homer - marge + bart bart - lisa + school marge - homer + home
+5* попробовать построить классификатор bart/lisa с использованием этих эмбеддингов
